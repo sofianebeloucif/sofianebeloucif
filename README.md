@@ -1,11 +1,3 @@
-<p align="center">
-	<a href="https://www.sofianebeloucif.com/portfolio/">
-		<img src="https://www.sofianebeloucif.com/portfolio/resources/images/Social.png" width="100%">
-	</a>
-</p>
-
-<br>
-
 # 👋 About Me
 
 Hi! I’m **Sofiane Beloucif**, a French **Computer Science Engineer** specialized in **Artificial Intelligence**.  
@@ -35,7 +27,7 @@ More about me on my website: **[sofianebeloucif.com](https://www.sofianebeloucif
 
 # 📂 Projects
 
-## [🌀 Quantum Diffraction Simulator](https://github.com/sofianebeloucif/Quantum_Diffraction_Simulator)
+## [🌀 Quantum Diffraction Simulator](https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator)
 
 A simulation program that models **quantum diffraction phenomena**.  
 It allows visualization of interference patterns and exploration of quantum physics principles.
