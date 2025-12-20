@@ -27,6 +27,46 @@ More about me on my website: **[sofianebeloucif.com](https://www.sofianebeloucif
 
 # 📂 Projects
 
+## [🎲 This Number Does Not Exist](https://github.com/SofianeBelouCIF/ThisNumberDoesNotExit)
+
+A handwritten digit generator using **classical Machine Learning (PCA + KDE)**.  
+Fast, lightweight, and interpretable alternative for MNIST generation with conditional control.
+
+<p align="center">
+    <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExit/">
+       <img src="https://raw.githubusercontent.com/SofianeBelouCIF/ThisNumberDoesNotExit/main/assets/samples_mosaic.png" width="500">
+    </a>
+</p>
+
+**[🚀 Live Demo](https://sofianebeloucif.github.io/ThisNumberDoesNotExit/)** • **[📖 Read Article on Medium](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69)**
+
+<br>
+<br>
+
+
+## [🏔️ Procedural Terrain Generator 3D](https://github.com/sofianebeloucif/procedural-terrain-3d)
+
+A **3D terrain generator** combining C/WebAssembly computation with advanced WebGL shaders.  
+Real-time procedural generation using Simplex noise, featuring multiple biomes, animated water, dynamic sky, and photorealistic rendering.
+
+<p align="center">
+    <a href="https://sofianebeloucif.github.io/procedural-terrain-3d/">
+       <img src="https://raw.githubusercontent.com/sofianebeloucif/procedural-terrain-3d/main/assets/screenshots/mountains.png" width="500">
+    </a>
+</p>
+
+**Key Features:**
+- 🚀 **C/WebAssembly** core for optimized terrain generation
+- 🎨 **Advanced GLSL shaders** for realistic lighting and effects
+- 🌊 **Animated water** with waves, reflections, and caustics
+- ☁️ **Dynamic sky** with procedural clouds and atmospheric effects
+- 🏔️ **Multiple biomes**: water, beach, grass, forest, mountains, snow
+- ⚡ **Real-time rendering** at 60 FPS with thousands of vertices
+- 💾 **Export to OBJ** for 3D printing and external modeling
+
+[🎮 Live Demo](https://sofianebeloucif.github.io/procedural-terrain-3d/) 
+<br>
+
 ## [🌀 Quantum Diffraction Simulator](https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator)
 
 A simulation program that models **quantum diffraction phenomena**.  
