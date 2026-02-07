@@ -3,7 +3,7 @@
 Hi! I’m a French **Computer Science Engineer** specialized in **Artificial Intelligence**.  
 I have professional experience applying AI in the **medical field** and in **industrial applications**.  
 
-More about me on my website: **[sofianebeloucif.com](https://www.sofianebeloucif.com/portfolio/)**
+More about me on my website: **[sofianebeloucif.com](https://www.sofianebeloucif.com)**
 
 <br>
 
