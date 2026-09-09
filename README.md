@@ -26,27 +26,24 @@ I take machine learning systems to production and keep them running: CI/CD pipel
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExist/"><img src="https://raw.githubusercontent.com/sofianebeloucif/ThisNumberDoesNotExist/main/assets/samples_mosaic.png" width="100%" alt="Generated MNIST-style digits"></a>
       <br><b><a href="https://github.com/sofianebeloucif/ThisNumberDoesNotExist">This Number Does Not Exist</a></b>
       <br>Classical-ML handwritten digit generation (PCA, KDE, rejection sampling). A lightweight alternative to GANs, running in the browser.
       <br><a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExist/">Live demo</a> · <a href="https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69">Article</a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://sofianebeloucif.github.io/procedural-terrain-3d/"><img src="https://raw.githubusercontent.com/sofianebeloucif/procedural-terrain-3d/main/assets/screenshots/mountains.png" width="100%" alt="Procedurally generated mountain terrain"></a>
       <br><b><a href="https://github.com/sofianebeloucif/procedural-terrain-3d">Procedural Terrain Generator 3D</a></b>
       <br>Real-time 3D terrain with a C / WebAssembly core and Three.js / GLSL rendering. Multiple biomes, animated water, dynamic sky, OBJ export.
       <br><a href="https://sofianebeloucif.github.io/procedural-terrain-3d/">Live demo</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/"><img src="https://raw.githubusercontent.com/sofianebeloucif/Quantum-Diffraction-Simulator/main/screenshots/diffraction-double.png" width="100%" alt="Double-slit diffraction pattern"></a>
       <br><b><a href="https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator">Quantum Diffraction Simulator</a></b>
       <br>Real-time diffraction pattern simulator in WebGL shaders and Three.js. Double-slit, multiple-slit and cross interference.
       <br><a href="https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/">Live demo</a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -54,7 +51,7 @@ I take machine learning systems to production and keep them running: CI/CD pipel
 
 Contributing to **[Grafana](https://github.com/grafana/grafana)**, **[Grist](https://github.com/gristlabs/grist-core)** and **[Securix](https://github.com/cloud-gouv/securix)**.
 
-<!--PRS_START-->![Open-source pull requests](https://img.shields.io/badge/open--source_PRs-8_total,_1_merged-8957e5?style=flat-square)<!--PRS_END-->
+<!--PRS_START--><img alt="Open-source pull requests" src="https://img.shields.io/badge/open--source_PRs-8_total%2C_1_merged-8957e5?style=flat-square"><!--PRS_END-->
 
 ### Research & writing
 

@@ -26,8 +26,8 @@ jobs:
 
       - name: Write the badge into README
         run: |
-          badge="https://img.shields.io/badge/open--source_PRs-${TOTAL}_total,_${MERGED}_merged-8957e5?style=flat-square"
-          md="![Open-source pull requests](${badge})"
+          badge="https://img.shields.io/badge/open--source_PRs-${TOTAL}_total%2C_${MERGED}_merged-8957e5?style=flat-square"
+          md="<img alt=\"Open-source pull requests\" src=\"${badge}\">"
           sed -i "s|<!--PRS_START-->.*<!--PRS_END-->|<!--PRS_START-->${md}<!--PRS_END-->|" README.md
           echo "$md"
 
