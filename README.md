@@ -22,14 +22,15 @@ Computer Science Engineer with an AI background and professional experience deli
 
 ---
 
-### Open source & infrastructure
+### Open source contributions
 
-| Project | What I do there |
+| Project | Contributions |
 | --- | --- |
-| [grafana/grafana](https://github.com/grafana/grafana) | Contributing to the open observability & dashboards platform |
-| [gristlabs/grist-core](https://github.com/gristlabs/grist-core) | Contributing to the open-source relational spreadsheet |
-| [NixWall](https://github.com/MattiasKockum/NixWall) | Contributing to a declarative, reproducible NixOS firewall |
-| [SécurixOS](https://github.com/cloud-gouv/securix) | Studying / contributing to a hardened NixOS workstation OS |
+| [grafana/grafana](https://github.com/grafana/grafana) | TraceView rendering fixes — [PRs](https://github.com/grafana/grafana/pulls?q=is%3Apr+author%3Asofianebeloucif) |
+| [gristlabs/grist-core](https://github.com/gristlabs/grist-core) | `no_proxy` support, health-check docs, widget UX — [PRs](https://github.com/gristlabs/grist-core/pulls?q=is%3Apr+author%3Asofianebeloucif) |
+| [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | IPsec/VPN shutdown handling in this hardened NixOS OS — [PRs](https://github.com/cloud-gouv/securix/pulls?q=is%3Apr+author%3Asofianebeloucif) |
+
+Interests: declarative infrastructure with NixOS, reproducible builds, observability.
 
 ---
 
@@ -100,12 +101,9 @@ Photorealistic real-time diffraction-pattern simulator built with **WebGL shader
 
 ---
 
-### GitHub
+### Writing
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sofianebeloucif&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofianebeloucif&layout=compact&hide_border=true&langs_count=8">
-</p>
+- [Generating images without neural networks: a probabilistic approach](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69) — how PCA + KDE + rejection sampling replace a GAN for MNIST-style generation.
 
 ---
 
