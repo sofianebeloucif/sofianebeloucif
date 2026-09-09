@@ -58,6 +58,8 @@ I take machine learning systems to production and keep them running: CI/CD pipel
 | [gristlabs/grist-core](https://github.com/gristlabs/grist-core) | `no_proxy` support, health-check docs, widget UX. [PRs](https://github.com/gristlabs/grist-core/pulls?q=is%3Apr+author%3Asofianebeloucif) |
 | [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | IPsec/VPN shutdown handling in this hardened NixOS OS. [PRs](https://github.com/cloud-gouv/securix/pulls?q=is%3Apr+author%3Asofianebeloucif) |
 
+<sub><!--PRS_START-->8 pull requests to open-source projects, 1 merged<!--PRS_END--> · updated daily</sub>
+
 ### Research & writing
 
 - **[When Kids Radiate: Low-Resolution Thermography for Total Energy Expenditure Estimation in Pediatric Patients](https://ieeexplore.ieee.org/document/11407455)**. First author. *IEEE Open Journal of Engineering in Medicine and Biology*, 2026. [doi:10.1109/OJEMB.2026.3667036](https://doi.org/10.1109/OJEMB.2026.3667036)
