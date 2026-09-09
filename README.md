@@ -52,13 +52,9 @@ I take machine learning systems to production and keep them running: CI/CD pipel
 
 ### Open source
 
-| Project | Contributions |
-| --- | --- |
-| [grafana/grafana](https://github.com/grafana/grafana) | TraceView rendering fixes. [PRs](https://github.com/grafana/grafana/pulls?q=is%3Apr+author%3Asofianebeloucif) |
-| [gristlabs/grist-core](https://github.com/gristlabs/grist-core) | `no_proxy` support, health-check docs, widget UX. [PRs](https://github.com/gristlabs/grist-core/pulls?q=is%3Apr+author%3Asofianebeloucif) |
-| [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | IPsec/VPN shutdown handling in this hardened NixOS OS. [PRs](https://github.com/cloud-gouv/securix/pulls?q=is%3Apr+author%3Asofianebeloucif) |
+Contributing to **[Grafana](https://github.com/grafana/grafana)**, **[Grist](https://github.com/gristlabs/grist-core)** and **[Securix](https://github.com/cloud-gouv/securix)**.
 
-<sub><!--PRS_START-->8 pull requests to open-source projects, 1 merged<!--PRS_END--> · updated daily</sub>
+<!--PRS_START-->![Open-source pull requests](https://img.shields.io/badge/open--source_PRs-8_total,_1_merged-8957e5?style=flat-square)<!--PRS_END-->
 
 ### Research & writing
 

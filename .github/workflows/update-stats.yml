@@ -24,12 +24,12 @@ jobs:
           echo "TOTAL=$total"   >> "$GITHUB_ENV"
           echo "MERGED=$merged" >> "$GITHUB_ENV"
 
-      - name: Write the number into README
+      - name: Write the badge into README
         run: |
-          noun="pull requests"; [ "$TOTAL" = "1" ] && noun="pull request"
-          text="$TOTAL $noun to open-source projects, $MERGED merged"
-          sed -i "s|<!--PRS_START-->.*<!--PRS_END-->|<!--PRS_START-->$text<!--PRS_END-->|" README.md
-          echo "$text"
+          badge="https://img.shields.io/badge/open--source_PRs-${TOTAL}_total,_${MERGED}_merged-8957e5?style=flat-square"
+          md="![Open-source pull requests](${badge})"
+          sed -i "s|<!--PRS_START-->.*<!--PRS_END-->|<!--PRS_START-->${md}<!--PRS_END-->|" README.md
+          echo "$md"
 
       - name: Commit if changed
         run: |
