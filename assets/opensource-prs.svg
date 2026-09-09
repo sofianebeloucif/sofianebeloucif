@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="470" height="130" viewBox="0 0 470 130" role="img" aria-label="Open-source pull requests: 8 opened, 1 merged">
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="132" viewBox="0 0 460 132" role="img" aria-label="Open-source pull requests: 8 opened, 1 merged">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#8957e5"/>
-      <stop offset="1" stop-color="#6e40c9"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22272e"/>
+      <stop offset="1" stop-color="#1c2128"/>
     </linearGradient>
   </defs>
-  <rect x="0.5" y="0.5" width="469" height="129" rx="16" fill="url(#bg)"/>
-  <text x="30" y="36" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" letter-spacing="1.5" fill="#e9defc">OPEN-SOURCE PULL REQUESTS</text>
+  <rect x="0.75" y="0.75" width="458.5" height="130.5" rx="16" fill="url(#bg)" stroke="#373e47" stroke-width="1.5"/>
+  <text x="28" y="34" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" letter-spacing="2" fill="#768390">OPEN-SOURCE PULL REQUESTS</text>
   <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
-    <text x="140" y="94" font-size="52" font-weight="700" fill="#ffffff">8</text>
-    <text x="140" y="116" font-size="13" fill="#d9c9f6">opened</text>
-    <line x1="245" y1="54" x2="245" y2="112" stroke="#ffffff" stroke-opacity="0.25"/>
-    <text x="350" y="94" font-size="52" font-weight="700" fill="#ffffff">1</text>
-    <text x="350" y="116" font-size="13" fill="#d9c9f6">merged</text>
+    <text x="148" y="92" font-size="50" font-weight="700" fill="#f0f6fc">8</text>
+    <text x="148" y="113" font-size="13" font-weight="600" fill="#3fb950">opened</text>
+    <line x1="240" y1="50" x2="240" y2="110" stroke="#373e47" stroke-width="1.5"/>
+    <text x="332" y="92" font-size="50" font-weight="700" fill="#f0f6fc">1</text>
+    <text x="332" y="113" font-size="13" font-weight="600" fill="#a371f7">merged</text>
   </g>
 </svg>
