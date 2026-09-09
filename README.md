@@ -1,6 +1,6 @@
 # Sofiane Beloucif
 
-**MLOps / DevOps Engineer** — I bring machine-learning models into reliable, reproducible production.
+**MLOps / DevOps Engineer.** I bring machine learning models into reliable, reproducible production.
 
 Computer Science Engineer with an AI background and professional experience delivering AI systems in **medical** and **industrial** environments. I care about reproducibility, observability, and keeping models cheap to run.
 
@@ -15,10 +15,10 @@ Computer Science Engineer with an AI background and professional experience deli
 
 ### What I focus on
 
-- **Reproducible infrastructure** — infrastructure as code with Nix / NixOS and Terraform
-- **CI/CD for ML** — automated training, packaging, testing and deployment pipelines
-- **Serving & observability** — model APIs, metrics, dashboards and alerting with Prometheus / Grafana
-- **Lean ML** — lightweight, interpretable models that are inexpensive to operate
+- **Reproducible infrastructure**: infrastructure as code with Nix / NixOS and Terraform
+- **CI/CD for ML**: automated training, packaging, testing and deployment pipelines
+- **Serving and observability**: model APIs, metrics, dashboards and alerting with Prometheus / Grafana
+- **Lean ML**: lightweight, interpretable models that are cheap to run
 
 ---
 
@@ -26,9 +26,9 @@ Computer Science Engineer with an AI background and professional experience deli
 
 | Project | Contributions |
 | --- | --- |
-| [grafana/grafana](https://github.com/grafana/grafana) | TraceView rendering fixes — [PRs](https://github.com/grafana/grafana/pulls?q=is%3Apr+author%3Asofianebeloucif) |
-| [gristlabs/grist-core](https://github.com/gristlabs/grist-core) | `no_proxy` support, health-check docs, widget UX — [PRs](https://github.com/gristlabs/grist-core/pulls?q=is%3Apr+author%3Asofianebeloucif) |
-| [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | IPsec/VPN shutdown handling in this hardened NixOS OS — [PRs](https://github.com/cloud-gouv/securix/pulls?q=is%3Apr+author%3Asofianebeloucif) |
+| [grafana/grafana](https://github.com/grafana/grafana) | TraceView rendering fixes. [PRs](https://github.com/grafana/grafana/pulls?q=is%3Apr+author%3Asofianebeloucif) |
+| [gristlabs/grist-core](https://github.com/gristlabs/grist-core) | `no_proxy` support, health-check docs, widget UX. [PRs](https://github.com/gristlabs/grist-core/pulls?q=is%3Apr+author%3Asofianebeloucif) |
+| [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | IPsec/VPN shutdown handling in this hardened NixOS OS. [PRs](https://github.com/cloud-gouv/securix/pulls?q=is%3Apr+author%3Asofianebeloucif) |
 
 Interests: declarative infrastructure with NixOS, reproducible builds, observability.
 
@@ -36,14 +36,14 @@ Interests: declarative infrastructure with NixOS, reproducible builds, observabi
 
 ### Featured projects
 
-#### [This Number Does Not Exist](https://github.com/sofianebeloucif/ThisNumberDoesNotExit)
-Handwritten-digit generation with **classical ML** — PCA + Kernel Density Estimation + rejection sampling. A lightweight, interpretable alternative to GANs: 5–15 MB models, conditional generation, runs entirely in the browser.
+#### [This Number Does Not Exist](https://github.com/sofianebeloucif/ThisNumberDoesNotExist)
+Handwritten digit generation with **classical ML**: PCA, Kernel Density Estimation and rejection sampling. A lightweight, interpretable alternative to GANs, with 5 to 15 MB models, conditional generation, and a browser demo.
 
-**[Live demo](https://sofianebeloucif.github.io/ThisNumberDoesNotExit/)** · **[Article on Medium](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69)**
+**[Live demo](https://sofianebeloucif.github.io/ThisNumberDoesNotExist/)** · **[Article on Medium](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69)**
 
 <p align="center">
-  <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExit/">
-    <img src="https://raw.githubusercontent.com/sofianebeloucif/ThisNumberDoesNotExit/main/assets/samples_mosaic.png" width="600" alt="Generated MNIST-style digits">
+  <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExist/">
+    <img src="https://raw.githubusercontent.com/sofianebeloucif/ThisNumberDoesNotExist/main/assets/samples_mosaic.png" width="600" alt="Generated MNIST-style digits">
   </a>
 </p>
 
@@ -59,7 +59,7 @@ Real-time 3D terrain generation with a **C / WebAssembly** compute core and **Th
 </p>
 
 #### [Quantum Diffraction Simulator](https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator)
-Photorealistic real-time diffraction-pattern simulator built with **WebGL shaders and Three.js**. Visualises quantum wave interference across double-slit, multiple-slit and cross configurations.
+Photorealistic real-time diffraction pattern simulator built with **WebGL shaders and Three.js**. Shows quantum wave interference across double-slit, multiple-slit and cross configurations.
 
 **[Live demo](https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/)**
 
@@ -103,14 +103,14 @@ Photorealistic real-time diffraction-pattern simulator built with **WebGL shader
 
 ### Writing
 
-- [Generating images without neural networks: a probabilistic approach](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69) — how PCA + KDE + rejection sampling replace a GAN for MNIST-style generation.
+- [Generating images without neural networks: a probabilistic approach](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69). How PCA, KDE and rejection sampling replace a GAN for MNIST-style generation.
 
 ---
 
 ### Currently
 
-- Building a reference **MLOps project** — containerised training, model serving and monitoring wired through CI/CD
+- Building a reference MLOps project: containerised training, model serving and monitoring wired through CI/CD
 - Going deeper on Kubernetes and GitOps (ArgoCD)
-- Open to collaboration on MLOps / Platform Engineering problems
+- Open to collaboration on MLOps and Platform Engineering problems
 
-Thanks for stopping by — more at **[sofianebeloucif.com](https://www.sofianebeloucif.com)**.
+More at **[sofianebeloucif.com](https://www.sofianebeloucif.com)**.
