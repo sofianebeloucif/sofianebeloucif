@@ -1,8 +1,8 @@
 # Sofiane Beloucif
 
-**MLOps / DevSecOps Engineer.** I take machine learning systems to production and keep them running: CI/CD pipelines, hardened and reproducible infrastructure, monitoring and alerting.
+**MLOps / DevSecOps Engineer** &nbsp;·&nbsp; France
 
-Computer Science Engineer with an AI background and professional experience delivering AI systems in **medical** and **industrial** environments. I care about reproducibility, security, observability, and keeping models cheap to run.
+I take machine learning systems to production and keep them running: CI/CD pipelines, hardened and reproducible infrastructure, monitoring and alerting. Computer Science Engineer with an AI background and professional experience in **medical** and **industrial** environments.
 
 <p align="left">
   <a href="https://www.sofianebeloucif.com"><img src="https://img.shields.io/badge/Website-sofianebeloucif.com-1f6feb?style=flat-square&logo=firefox&logoColor=white"></a>
@@ -11,9 +11,7 @@ Computer Science Engineer with an AI background and professional experience deli
   <a href="mailto:sofiane.beloucif.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
-### What I focus on
+**Focus**
 
 - **CI/CD for ML**: automated training, packaging, testing and deployment pipelines
 - **Reproducible infrastructure**: infrastructure as code with Nix / NixOS and Terraform
@@ -23,7 +21,35 @@ Computer Science Engineer with an AI background and professional experience deli
 
 ---
 
-### Open source contributions
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExist/"><img src="https://raw.githubusercontent.com/sofianebeloucif/ThisNumberDoesNotExist/main/assets/samples_mosaic.png" width="100%" alt="Generated MNIST-style digits"></a>
+      <br><b><a href="https://github.com/sofianebeloucif/ThisNumberDoesNotExist">This Number Does Not Exist</a></b>
+      <br>Classical-ML handwritten digit generation (PCA, KDE, rejection sampling). A lightweight alternative to GANs, running in the browser.
+      <br><a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExist/">Live demo</a> · <a href="https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69">Article</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://sofianebeloucif.github.io/procedural-terrain-3d/"><img src="https://raw.githubusercontent.com/sofianebeloucif/procedural-terrain-3d/main/assets/screenshots/mountains.png" width="100%" alt="Procedurally generated mountain terrain"></a>
+      <br><b><a href="https://github.com/sofianebeloucif/procedural-terrain-3d">Procedural Terrain Generator 3D</a></b>
+      <br>Real-time 3D terrain with a C / WebAssembly core and Three.js / GLSL rendering. Multiple biomes, animated water, dynamic sky, OBJ export.
+      <br><a href="https://sofianebeloucif.github.io/procedural-terrain-3d/">Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/"><img src="https://raw.githubusercontent.com/sofianebeloucif/Quantum-Diffraction-Simulator/main/screenshots/diffraction-double.png" width="100%" alt="Double-slit diffraction pattern"></a>
+      <br><b><a href="https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator">Quantum Diffraction Simulator</a></b>
+      <br>Real-time diffraction pattern simulator in WebGL shaders and Three.js. Double-slit, multiple-slit and cross interference.
+      <br><a href="https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/">Live demo</a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+### Open source
 
 | Project | Contributions |
 | --- | --- |
@@ -31,44 +57,9 @@ Computer Science Engineer with an AI background and professional experience deli
 | [gristlabs/grist-core](https://github.com/gristlabs/grist-core) | `no_proxy` support, health-check docs, widget UX. [PRs](https://github.com/gristlabs/grist-core/pulls?q=is%3Apr+author%3Asofianebeloucif) |
 | [cloud-gouv/securix](https://github.com/cloud-gouv/securix) | IPsec/VPN shutdown handling in this hardened NixOS OS. [PRs](https://github.com/cloud-gouv/securix/pulls?q=is%3Apr+author%3Asofianebeloucif) |
 
-Interests: declarative infrastructure with NixOS, reproducible builds, observability.
+### Research & writing
 
----
-
-### Featured projects
-
-#### [This Number Does Not Exist](https://github.com/sofianebeloucif/ThisNumberDoesNotExist)
-Handwritten digit generation with **classical ML**: PCA, Kernel Density Estimation and rejection sampling. A lightweight, interpretable alternative to GANs, with 5 to 15 MB models, conditional generation, and a browser demo.
-
-**[Live demo](https://sofianebeloucif.github.io/ThisNumberDoesNotExist/)** · **[Article on Medium](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69)**
-
-<p align="center">
-  <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExist/">
-    <img src="https://raw.githubusercontent.com/sofianebeloucif/ThisNumberDoesNotExist/main/assets/samples_mosaic.png" width="600" alt="Generated MNIST-style digits">
-  </a>
-</p>
-
-#### [Procedural Terrain Generator 3D](https://github.com/sofianebeloucif/procedural-terrain-3d)
-Real-time 3D terrain generation with a **C / WebAssembly** compute core and **Three.js / GLSL** rendering. Simplex-noise generation, multiple biomes, animated water, dynamic sky, 60 FPS, OBJ export.
-
-**[Live demo](https://sofianebeloucif.github.io/procedural-terrain-3d/)**
-
-<p align="center">
-  <a href="https://sofianebeloucif.github.io/procedural-terrain-3d/">
-    <img src="https://raw.githubusercontent.com/sofianebeloucif/procedural-terrain-3d/main/assets/screenshots/mountains.png" width="600" alt="Procedurally generated mountain terrain">
-  </a>
-</p>
-
-#### [Quantum Diffraction Simulator](https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator)
-Photorealistic real-time diffraction pattern simulator built with **WebGL shaders and Three.js**. Shows quantum wave interference across double-slit, multiple-slit and cross configurations.
-
-**[Live demo](https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/)**
-
-<p align="center">
-  <a href="https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/">
-    <img src="https://raw.githubusercontent.com/sofianebeloucif/Quantum-Diffraction-Simulator/main/screenshots/diffraction-double.png" width="600" alt="Double-slit diffraction pattern">
-  </a>
-</p>
+- [Generating images without neural networks: a probabilistic approach](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69). How PCA, KDE and rejection sampling replace a GAN for MNIST-style generation.
 
 ---
 
@@ -103,12 +94,6 @@ Photorealistic real-time diffraction pattern simulator built with **WebGL shader
 **Security** &nbsp;
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=trivy&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-
----
-
-### Writing
-
-- [Generating images without neural networks: a probabilistic approach](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69). How PCA, KDE and rejection sampling replace a GAN for MNIST-style generation.
 
 ---
 
