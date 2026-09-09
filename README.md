@@ -9,6 +9,7 @@ I take machine learning systems to production and keep them running: CI/CD pipel
   <a href="https://www.linkedin.com/in/sofiane-beloucif-459787253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@sofiane.beloucif.contact"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"></a>
   <a href="mailto:sofiane.beloucif.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://orcid.org/0009-0006-5671-1954"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
 </p>
 
 **Focus**
@@ -59,6 +60,7 @@ I take machine learning systems to production and keep them running: CI/CD pipel
 
 ### Research & writing
 
+- **[When Kids Radiate: Low-Resolution Thermography for Total Energy Expenditure Estimation in Pediatric Patients](https://ieeexplore.ieee.org/document/11407455)**. First author. *IEEE Open Journal of Engineering in Medicine and Biology*, 2026. [doi:10.1109/OJEMB.2026.3667036](https://doi.org/10.1109/OJEMB.2026.3667036)
 - [Generating images without neural networks: a probabilistic approach](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69). How PCA, KDE and rejection sampling replace a GAN for MNIST-style generation.
 
 ---
