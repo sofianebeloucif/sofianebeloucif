@@ -1,8 +1,8 @@
 # Sofiane Beloucif
 
-**MLOps / DevOps Engineer.** I bring machine learning models into reliable, reproducible production.
+**MLOps / DevSecOps Engineer.** I take machine learning systems to production and keep them running: CI/CD pipelines, hardened and reproducible infrastructure, monitoring and alerting.
 
-Computer Science Engineer with an AI background and professional experience delivering AI systems in **medical** and **industrial** environments. I care about reproducibility, observability, and keeping models cheap to run.
+Computer Science Engineer with an AI background and professional experience delivering AI systems in **medical** and **industrial** environments. I care about reproducibility, security, observability, and keeping models cheap to run.
 
 <p align="left">
   <a href="https://www.sofianebeloucif.com"><img src="https://img.shields.io/badge/Website-sofianebeloucif.com-1f6feb?style=flat-square&logo=firefox&logoColor=white"></a>
@@ -15,9 +15,10 @@ Computer Science Engineer with an AI background and professional experience deli
 
 ### What I focus on
 
-- **Reproducible infrastructure**: infrastructure as code with Nix / NixOS and Terraform
 - **CI/CD for ML**: automated training, packaging, testing and deployment pipelines
-- **Serving and observability**: model APIs, metrics, dashboards and alerting with Prometheus / Grafana
+- **Reproducible infrastructure**: infrastructure as code with Nix / NixOS and Terraform
+- **Operations**: rollouts, health checks, metrics, dashboards and alerting with Prometheus / Grafana
+- **Security**: hardened NixOS builds, least-privilege access, secrets and supply-chain hygiene
 - **Lean ML**: lightweight, interpretable models that are cheap to run
 
 ---
@@ -111,6 +112,6 @@ Photorealistic real-time diffraction pattern simulator built with **WebGL shader
 
 - Building a reference MLOps project: containerised training, model serving and monitoring wired through CI/CD
 - Going deeper on Kubernetes and GitOps (ArgoCD)
-- Open to collaboration on MLOps and Platform Engineering problems
+- Open to collaboration on MLOps, DevSecOps and Platform Engineering problems
 
 More at **[sofianebeloucif.com](https://www.sofianebeloucif.com)**.
