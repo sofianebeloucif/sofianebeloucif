@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="130" viewBox="0 0 470 130" role="img" aria-label="Open-source pull requests: 8 opened, 1 merged">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8957e5"/>
+      <stop offset="1" stop-color="#6e40c9"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="469" height="129" rx="16" fill="url(#bg)"/>
+  <text x="30" y="36" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" letter-spacing="1.5" fill="#e9defc">OPEN-SOURCE PULL REQUESTS</text>
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
+    <text x="140" y="94" font-size="52" font-weight="700" fill="#ffffff">8</text>
+    <text x="140" y="116" font-size="13" fill="#d9c9f6">opened</text>
+    <line x1="245" y1="54" x2="245" y2="112" stroke="#ffffff" stroke-opacity="0.25"/>
+    <text x="350" y="94" font-size="52" font-weight="700" fill="#ffffff">1</text>
+    <text x="350" y="116" font-size="13" fill="#d9c9f6">merged</text>
+  </g>
+</svg>

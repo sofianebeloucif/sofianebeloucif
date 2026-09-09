@@ -51,7 +51,7 @@ I take machine learning systems to production and keep them running: CI/CD pipel
 
 Contributing to **[Grafana](https://github.com/grafana/grafana)**, **[Grist](https://github.com/gristlabs/grist-core)** and **[Securix](https://github.com/cloud-gouv/securix)**.
 
-<!--PRS_START--><img alt="Open-source pull requests" src="https://img.shields.io/badge/open--source_PRs-8_total%2C_1_merged-8957e5?style=flat-square"><!--PRS_END-->
+<img alt="Open-source pull requests: 8 opened, 1 merged" src="./assets/opensource-prs.svg" width="430">
 
 ### Research & writing
 
