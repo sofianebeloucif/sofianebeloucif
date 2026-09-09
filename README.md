@@ -1,102 +1,118 @@
-# 👋 About Me
+# Sofiane Beloucif
 
-Hi! I’m a French **Computer Science Engineer** specialized in **Artificial Intelligence**.  
-I have professional experience applying AI in the **medical field** and in **industrial applications**.  
+**MLOps / DevOps Engineer** — I bring machine-learning models into reliable, reproducible production.
 
-More about me on my website: **[sofianebeloucif.com](https://www.sofianebeloucif.com)**
+Computer Science Engineer with an AI background and professional experience delivering AI systems in **medical** and **industrial** environments. I care about reproducibility, observability, and keeping models cheap to run.
 
-<br>
-
-# 📭 Contact
-
-<p align="center">
-	<a href="https://www.linkedin.com/in/sofiane-beloucif-459787253/">
-		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="https://github.com/sofianebeloucif">
-		<img src="https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=white">
-	</a>
-	<span>&nbsp;</span>
-	<a href="mailto:sofiane.beloucif.contact@gmail.com">
-		<img src="https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-	</a>
+<p align="left">
+  <a href="https://www.sofianebeloucif.com"><img src="https://img.shields.io/badge/Website-sofianebeloucif.com-1f6feb?style=flat-square&logo=firefox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sofiane-beloucif-459787253/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@sofiane.beloucif.contact"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"></a>
+  <a href="mailto:sofiane.beloucif.contact@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
-<br>
+---
 
-# 📂 Projects
+### What I focus on
 
-## [🎲 This Number Does Not Exist](https://github.com/SofianeBelouCIF/ThisNumberDoesNotExit)
+- **Reproducible infrastructure** — infrastructure as code with Nix / NixOS and Terraform
+- **CI/CD for ML** — automated training, packaging, testing and deployment pipelines
+- **Serving & observability** — model APIs, metrics, dashboards and alerting with Prometheus / Grafana
+- **Lean ML** — lightweight, interpretable models that are inexpensive to operate
 
-A handwritten digit generator using **classical Machine Learning (PCA + KDE)**.  
-Fast, lightweight, and interpretable alternative for MNIST generation with conditional control.
+---
 
-<p align="center">
-    <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExit/">
-       <img src="https://raw.githubusercontent.com/SofianeBelouCIF/ThisNumberDoesNotExit/main/assets/samples_mosaic.png" width="500">
-    </a>
-</p>
+### Open source & infrastructure
 
-**[🚀 Live Demo](https://sofianebeloucif.github.io/ThisNumberDoesNotExit/)** • **[📖 Read Article on Medium](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69)**
+| Project | What I do there |
+| --- | --- |
+| [grafana/grafana](https://github.com/grafana/grafana) | Contributing to the open observability & dashboards platform |
+| [gristlabs/grist-core](https://github.com/gristlabs/grist-core) | Contributing to the open-source relational spreadsheet |
+| [NixWall](https://github.com/MattiasKockum/NixWall) | Contributing to a declarative, reproducible NixOS firewall |
+| [SécurixOS](https://github.com/cloud-gouv/securix) | Studying / contributing to a hardened NixOS workstation OS |
 
-<br>
-<br>
+---
 
+### Featured projects
 
-## [🏔️ Procedural Terrain Generator 3D](https://github.com/sofianebeloucif/procedural-terrain-3d)
+#### [This Number Does Not Exist](https://github.com/sofianebeloucif/ThisNumberDoesNotExit)
+Handwritten-digit generation with **classical ML** — PCA + Kernel Density Estimation + rejection sampling. A lightweight, interpretable alternative to GANs: 5–15 MB models, conditional generation, runs entirely in the browser.
 
-A **3D terrain generator** combining C/WebAssembly computation with advanced WebGL shaders.  
-Real-time procedural generation using Simplex noise, featuring multiple biomes, animated water, dynamic sky, and photorealistic rendering.
-
-<p align="center">
-    <a href="https://sofianebeloucif.github.io/procedural-terrain-3d/">
-       <img src="https://raw.githubusercontent.com/sofianebeloucif/procedural-terrain-3d/main/assets/screenshots/mountains.png" width="500">
-    </a>
-</p>
-
-**Key Features:**
-- 🚀 **C/WebAssembly** core for optimized terrain generation
-- 🎨 **Advanced GLSL shaders** for realistic lighting and effects
-- 🌊 **Animated water** with waves, reflections, and caustics
-- ☁️ **Dynamic sky** with procedural clouds and atmospheric effects
-- 🏔️ **Multiple biomes**: water, beach, grass, forest, mountains, snow
-- ⚡ **Real-time rendering** at 60 FPS with thousands of vertices
-- 💾 **Export to OBJ** for 3D printing and external modeling
-
-[🎮 Live Demo](https://sofianebeloucif.github.io/procedural-terrain-3d/) 
-<br>
-
-## [🌀 Quantum Diffraction Simulator](https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator)
-
-A simulation program that models **quantum diffraction phenomena**.  
-It allows visualization of interference patterns and exploration of quantum physics principles.
+**[Live demo](https://sofianebeloucif.github.io/ThisNumberDoesNotExit/)** · **[Article on Medium](https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69)**
 
 <p align="center">
-	<a href="https://github.com/sofianebeloucif/Quantum_Diffraction_Simulator">
-		<img src="ressources/Diffraction_simulator.png" width="500">
-	</a>
+  <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExit/">
+    <img src="https://raw.githubusercontent.com/sofianebeloucif/ThisNumberDoesNotExit/main/assets/samples_mosaic.png" width="600" alt="Generated MNIST-style digits">
+  </a>
 </p>
 
-<br>
+#### [Procedural Terrain Generator 3D](https://github.com/sofianebeloucif/procedural-terrain-3d)
+Real-time 3D terrain generation with a **C / WebAssembly** compute core and **Three.js / GLSL** rendering. Simplex-noise generation, multiple biomes, animated water, dynamic sky, 60 FPS, OBJ export.
 
-# 🛠 Skills
+**[Live demo](https://sofianebeloucif.github.io/procedural-terrain-3d/)**
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-	<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <a href="https://sofianebeloucif.github.io/procedural-terrain-3d/">
+    <img src="https://raw.githubusercontent.com/sofianebeloucif/procedural-terrain-3d/main/assets/screenshots/mountains.png" width="600" alt="Procedurally generated mountain terrain">
+  </a>
 </p>
 
-<br>
+#### [Quantum Diffraction Simulator](https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator)
+Photorealistic real-time diffraction-pattern simulator built with **WebGL shaders and Three.js**. Visualises quantum wave interference across double-slit, multiple-slit and cross configurations.
 
-# ⭐ Thank you for visiting!
+**[Live demo](https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/)**
 
-Check out my **[GitHub](https://github.com/sofianebeloucif)** for all projects and experiments.
+<p align="center">
+  <a href="https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/">
+    <img src="https://raw.githubusercontent.com/sofianebeloucif/Quantum-Diffraction-Simulator/main/screenshots/diffraction-double.png" width="600" alt="Double-slit diffraction pattern">
+  </a>
+</p>
+
+---
+
+### Tech
+
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Machine learning** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Containers & orchestration** &nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Infrastructure & CI/CD** &nbsp;
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Monitoring** &nbsp;
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+---
+
+### GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sofianebeloucif&show_icons=true&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofianebeloucif&layout=compact&hide_border=true&langs_count=8">
+</p>
+
+---
+
+### Currently
+
+- Building a reference **MLOps project** — containerised training, model serving and monitoring wired through CI/CD
+- Going deeper on Kubernetes and GitOps (ArgoCD)
+- Open to collaboration on MLOps / Platform Engineering problems
+
+Thanks for stopping by — more at **[sofianebeloucif.com](https://www.sofianebeloucif.com)**.
