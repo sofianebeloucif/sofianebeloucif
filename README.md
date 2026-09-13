@@ -26,19 +26,27 @@ I take machine learning systems to production and keep them running: CI/CD pipel
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <a href="https://sofianebeloucif.github.io/manhole-japan/"><img src="https://raw.githubusercontent.com/sofianebeloucif/manhole-japan/main/docs/screenshot.webp" width="100%" alt="Map of Japanese decorative manhole covers"></a>
+      <br><b><a href="https://github.com/sofianebeloucif/manhole-japan">Manhole Japan</a></b>
+      <br>Interactive map of 300+ decorative manhole covers (Poké Lids) across 45 Japanese prefectures. Add your own find via EXIF GPS, OCR and an on-device classifier.
+      <br><a href="https://sofianebeloucif.github.io/manhole-japan/">Live demo</a>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExist/"><img src="https://raw.githubusercontent.com/sofianebeloucif/ThisNumberDoesNotExist/main/assets/samples_mosaic.png" width="100%" alt="Generated MNIST-style digits"></a>
       <br><b><a href="https://github.com/sofianebeloucif/ThisNumberDoesNotExist">This Number Does Not Exist</a></b>
       <br>Classical-ML handwritten digit generation (PCA, KDE, rejection sampling). A lightweight alternative to GANs, running in the browser.
       <br><a href="https://sofianebeloucif.github.io/ThisNumberDoesNotExist/">Live demo</a> · <a href="https://medium.com/@sofiane.beloucif.contact/generating-images-without-neural-networks-a-probabilistic-approach-3a4ed5771a69">Article</a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://sofianebeloucif.github.io/procedural-terrain-3d/"><img src="https://raw.githubusercontent.com/sofianebeloucif/procedural-terrain-3d/main/assets/screenshots/mountains.png" width="100%" alt="Procedurally generated mountain terrain"></a>
       <br><b><a href="https://github.com/sofianebeloucif/procedural-terrain-3d">Procedural Terrain Generator 3D</a></b>
       <br>Real-time 3D terrain with a C / WebAssembly core and Three.js / GLSL rendering. Multiple biomes, animated water, dynamic sky, OBJ export.
       <br><a href="https://sofianebeloucif.github.io/procedural-terrain-3d/">Live demo</a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <a href="https://sofianebeloucif.github.io/Quantum-Diffraction-Simulator/"><img src="https://raw.githubusercontent.com/sofianebeloucif/Quantum-Diffraction-Simulator/main/screenshots/diffraction-double.png" width="100%" alt="Double-slit diffraction pattern"></a>
       <br><b><a href="https://github.com/sofianebeloucif/Quantum-Diffraction-Simulator">Quantum Diffraction Simulator</a></b>
       <br>Real-time diffraction pattern simulator in WebGL shaders and Three.js. Double-slit, multiple-slit and cross interference.
