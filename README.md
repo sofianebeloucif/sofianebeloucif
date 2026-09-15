@@ -28,7 +28,7 @@ I take machine learning systems to production and keep them running: CI/CD pipel
   <tr>
     <td width="50%" valign="top">
       <a href="https://sofianebeloucif.github.io/manhole-japan/"><img src="https://raw.githubusercontent.com/sofianebeloucif/sofianebeloucif/main/assets/thumbs/manhole-japan.webp" width="100%" alt="Map of Japanese decorative manhole covers"></a>
-      <br><b><a href="https://github.com/sofianebeloucif/manhole-japan">Manhole Japan</a></b>
+      <br><img src="https://raw.githubusercontent.com/sofianebeloucif/sofianebeloucif/main/assets/logos/manhole-japan.svg" width="18" height="18" valign="middle" alt=""> <b><a href="https://github.com/sofianebeloucif/manhole-japan">Mapan</a></b>
       <br>Interactive map of 300+ decorative manhole covers (Poké Lids) across 45 Japanese prefectures. Add your own find via EXIF GPS, OCR and an on-device classifier.
       <br><a href="https://sofianebeloucif.github.io/manhole-japan/">Live demo</a>
     </td>
